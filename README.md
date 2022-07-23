@@ -3,7 +3,7 @@
 I implemented this project based on the ideas presented in this paper: [Stock Price Prediction Using Hidden Markov Models](https://users.cs.duke.edu/~bdhingra/papers/stock_hmm.pdf)
 
 
-**Methodology**
+## Methodology
 1. Preprocessing the dataset.
 2. Feature engineering.
 3. Experimenting with HMMGMM model and fine-tuning the hyperparameters.
@@ -11,7 +11,7 @@ I implemented this project based on the ideas presented in this paper: [Stock Pr
 
 **I have also implemented a discrete HMM model from scratch, which is available in [HMM_from_scratch.py](https://github.com/taravatp/Stock_Price_Prediction/blob/main/HMM_from_scratch.py)**
 
-**Results**
+## Results
 
 Model  |     MSE loss                  
 ------ | ----------------
