@@ -19,7 +19,7 @@ HMMGMM |    239.2
 LSTM   |    273.70      
 
 **HMM results:**
-<img src="https://github.com/taravatp/Stock_Price_Prediction/blob/main/results/HMM_results.png">
+<img src="https://github.com/taravatp/Stock_Price_Prediction/blob/main/results/HMM_results.png" height="600">
 **LSTM results:**
-<img src="https://github.com/taravatp/Stock_Price_Prediction/blob/main/results/LSTM_results.png">
+<img src="https://github.com/taravatp/Stock_Price_Prediction/blob/main/results/LSTM_results.png" height="600">
 
