@@ -18,9 +18,4 @@ Model  |     MSE loss
 HMMGMM |    239.2     
 LSTM   |    273.70      
 
-**HMM results:**
-<img src="https://github.com/taravatp/Stock_Price_Prediction/blob/main/results/HMM_results.png" height="600">
-</br>
-**LSTM results:**
-<img src="https://github.com/taravatp/Stock_Price_Prediction/blob/main/results/LSTM_results.png" height="600">
-
+Suprisingly, The HMMGMM model has performed better than the LSTM model. this must be due to the fact that we have a small dataset that satisfies the markov property.
