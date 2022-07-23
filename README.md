@@ -10,7 +10,8 @@ I implemented this project based on the ideas presented in this paper: [Stock Pr
 4. Experimenting with an LSTM model and fine-tuning the hyperparameters.
 
 **Results**
-Model       MSE loss                  
+
+Model  |     MSE loss                  
 ------ | ----------------
 HMMGMM |    239.2     
 LSTM   |    273.70      
