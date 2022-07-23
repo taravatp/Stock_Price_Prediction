@@ -18,4 +18,4 @@ Model  |     MSE loss
 HMMGMM |    239.2     
 LSTM   |    273.70      
 
-Suprisingly, The HMMGMM model has performed better than the LSTM model. this must be due to the fact that we have a small dataset that satisfies the markov property.
+Suprisingly, The HMMGMM model performed better than the LSTM model. this must be due to the fact that we have a small dataset that satisfies the markov property.
