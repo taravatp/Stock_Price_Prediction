@@ -8,3 +8,9 @@ I implemented this project based on the ideas presented in this paper: [Stock Pr
 2. Feature engineering.
 3. Experimenting with HMMGMM model and fine-tuning the hyperparameters.
 4. Experimenting with an LSTM model and fine-tuning the hyperparameters.
+
+**Results**
+Model       MSE loss                  
+------ | ----------------
+HMMGMM |              
+LSTM   |          
