@@ -18,3 +18,8 @@ Model  |     MSE loss
 HMMGMM |    239.2     
 LSTM   |    273.70      
 
+**HMM results:**
+<img src="https://github.com/taravatp/Stock_Price_Prediction/blob/main/results/HMM_results.png">
+**LSTM results:**
+<img src="https://github.com/taravatp/Stock_Price_Prediction/blob/main/results/LSTM_results.png">
+
