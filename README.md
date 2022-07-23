@@ -12,5 +12,5 @@ I implemented this project based on the ideas presented in this paper: [Stock Pr
 **Results**
 Model       MSE loss                  
 ------ | ----------------
-HMMGMM |              
-LSTM   |          
+HMMGMM |    239.2     
+LSTM   |    273.70      
